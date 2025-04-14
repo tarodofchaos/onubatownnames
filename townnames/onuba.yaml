@@ -1,0 +1,177 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Alájar
+    probability: 1
+  - name: Aljaraque
+    probability: 1
+  - name: Almonaster la Real
+    probability: 1
+  - name: Almonte
+    probability: 1
+  - name: Alosno
+    probability: 1
+  - name: Aracena
+    probability: 1
+  - name: Aroche
+    probability: 1
+  - name: Arroyomolinos de León
+    probability: 1
+  - name: Ayamonte
+    probability: 1
+  - name: Beas
+    probability: 1
+  - name: Berrocal
+    probability: 1
+  - name: Bollullos Par del Condado
+    probability: 1
+  - name: Bonares
+    probability: 1
+  - name: Cabezas Rubias
+    probability: 1
+  - name: Cala
+    probability: 1
+  - name: Calañas
+    probability: 1
+  - name: Campofrío
+    probability: 1
+  - name: Cañaveral de León
+    probability: 1
+  - name: Cartaya
+    probability: 1
+  - name: Castaño del Robledo
+    probability: 1
+  - name: Chucena
+    probability: 1
+  - name: Corteconcepción
+    probability: 1
+  - name: Cortegana
+    probability: 1
+  - name: Cortelazor
+    probability: 1
+  - name: Cumbres de Enmedio
+    probability: 1
+  - name: Cumbres de San Bartolomé
+    probability: 1
+  - name: Cumbres Mayores
+    probability: 1
+  - name: El Almendro
+    probability: 1
+  - name: El Campillo
+    probability: 1
+  - name: El Cerro de Andévalo
+    probability: 1
+  - name: El Granado
+    probability: 1
+  - name: Encinasola
+    probability: 1
+  - name: Escacena del Campo
+    probability: 1
+  - name: Fuenteheridos
+    probability: 1
+  - name: Galaroza
+    probability: 1
+  - name: Gibraleón
+    probability: 1
+  - name: Higuera de la Sierra
+    probability: 1
+  - name: Hinojales
+    probability: 1
+  - name: Hinojos
+    probability: 1
+  - name: Huelva
+    probability: 1
+  - name: Isla Cristina
+    probability: 1
+  - name: Jabugo
+    probability: 1
+  - name: La Granada de Río-Tinto
+    probability: 1
+  - name: La Nava
+    probability: 1
+  - name: La Palma del Condado
+    probability: 1
+  - name: La Zarza-Perrunal
+    probability: 1
+  - name: Lepe
+    probability: 1
+  - name: Linares de la Sierra
+    probability: 1
+  - name: Los Marines
+    probability: 1
+  - name: Lucena del Puerto
+    probability: 1
+  - name: Manzanilla
+    probability: 1
+  - name: Minas de Riotinto
+    probability: 1
+  - name: Moguer
+    probability: 1
+  - name: Nerva
+    probability: 1
+  - name: Niebla
+    probability: 1
+  - name: Palos de la Frontera
+    probability: 1
+  - name: Paterna del Campo
+    probability: 1
+  - name: Paymogo
+    probability: 1
+  - name: Puebla de Guzmán
+    probability: 1
+  - name: Puerto Moral
+    probability: 1
+  - name: Punta Umbría
+    probability: 1
+  - name: Rociana del Condado
+    probability: 1
+  - name: Rosal de la Frontera
+    probability: 1
+  - name: San Bartolomé de la Torre
+    probability: 1
+  - name: San Juan del Puerto
+    probability: 1
+  - name: Sanlúcar de Guadiana
+    probability: 1
+  - name: San Silvestre de Guzmán
+    probability: 1
+  - name: Santa Ana la Real
+    probability: 1
+  - name: Santa Bárbara de Casa
+    probability: 1
+  - name: Santa Olalla del Cala
+    probability: 1
+  - name: Trigueros
+    probability: 1
+  - name: Valdelarco
+    probability: 1
+  - name: Valverde del Camino
+    probability: 1
+  - name: Villablanca
+    probability: 1
+  - name: Villalba del Alcor
+    probability: 1
+  - name: Villanueva de las Cruces
+    probability: 1
+  - name: Villanueva de los Castillejos
+    probability: 1
+  - name: Villarrasa
+    probability: 1
+  - name: Zalamea la Real
+    probability: 1
+  - name: Zufre
+    probability: 1
+  - name: Bellavista
+    probability: 1
+  - name: Corrales
+    probability: 1
+  - name: La Dehesa
+    probability: 1
+  - name: Mazagón
+    probability: 1
+  - name: Sotiel Coronada
+    probability: 1
+name: Onuba
+source: null
+subsets: []
